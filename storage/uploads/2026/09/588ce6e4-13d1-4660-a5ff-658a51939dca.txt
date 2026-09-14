@@ -1,0 +1,17 @@
+Sneha Patel (28)
+
+Frontend / UI?
+Visual detector?
+Auth + history?
+
+Mauli Sheth (53)
+
+Backend / FastAPI?
+Fusion / calibration?
+Audio detector?
+
+Priyanshi Sain (97)
+
+Text detector?
+Report generation?
+Testing / documentation?

@@ -1,0 +1,23 @@
+/* FOOTER */
+.footer {
+    border-top: 1px solid var(--border-color);
+    padding: 1.5rem;
+    margin-top: auto;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    text-align: center;
+}
+
+.footer-container {
+    max-width: 1320px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;      /* ← Changed this */
+    align-items: center;
+    text-align: center;
+}
+
+.footer-container p {
+    margin: 0;
+    text-align: center;
+}

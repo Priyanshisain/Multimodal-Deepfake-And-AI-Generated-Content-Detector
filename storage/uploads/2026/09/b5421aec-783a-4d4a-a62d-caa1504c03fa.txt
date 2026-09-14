@@ -1,0 +1,1 @@
+Machine learning is a branch of artificial intelligence that focuses on developing algorithms capable of learning patterns from data. Instead of being explicitly programmed for every possible situation, machine learning models can improve their performance by analyzing examples and identifying relationships within the data.

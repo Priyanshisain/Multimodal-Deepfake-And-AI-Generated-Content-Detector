@@ -1,0 +1,1 @@
+In one sentence: This function is created to display multiple OpenCV images side-by-side, automatically handling grayscale/color images, adding titles, removing axes, and arranging everything neatly.
